@@ -1,0 +1,119 @@
+- type: Basic
+  fields:
+    Front: 'Αα'
+    Back: 'Alpha'
+
+- type: Basic
+  fields:
+    Front: 'Ββ'
+    Back: 'Beta'
+
+- type: Basic
+  fields:
+    Front: 'Γγ'
+    Back: 'Gamma'
+
+- type: Basic
+  fields:
+    Front: 'Δδ'
+    Back: 'Delta'
+
+- type: Basic
+  fields:
+    Front: 'Εε'
+    Back: 'Epsilon'
+
+- type: Basic
+  fields:
+    Front: 'Ζζ'
+    Back: 'Zeta'
+
+- type: Basic
+  fields:
+    Front: 'Ηη'
+    Back: 'Eta'
+
+- type: Basic
+  fields:
+    Front: 'Θθ'
+    Back: 'Theta'
+
+- type: Basic
+  fields:
+    Front: 'Ιι'
+    Back: 'Iota'
+
+- type: Basic
+  fields:
+    Front: 'Κκ'
+    Back: 'Kappa'
+
+- type: Basic
+  fields:
+    Front: 'Λλ'
+    Back: 'Lambda'
+
+- type: Basic
+  fields:
+    Front: 'Μμ'
+    Back: 'Mu'
+
+- type: Basic
+  fields:
+    Front: 'Νν'
+    Back: 'Nu'
+
+- type: Basic
+  fields:
+    Front: 'Ξξ'
+    Back: 'Xi'
+
+- type: Basic
+  fields:
+    Front: 'Οο'
+    Back: 'Omicron'
+
+- type: Basic
+  fields:
+    Front: 'Ππ'
+    Back: 'Pi'
+
+- type: Basic
+  fields:
+    Front: 'Ρρ'
+    Back: 'Rho'
+
+- type: Basic
+  fields:
+    Front: 'Σσς'
+    Back: 'Sigma'
+
+- type: Basic
+  fields:
+    Front: 'Ττ'
+    Back: 'Tau'
+
+- type: Basic
+  fields:
+    Front: 'Υυ'
+    Back: 'Upsilon'
+
+- type: Basic
+  fields:
+    Front: 'Φφ'
+    Back: 'Phi'
+
+- type: Basic
+  fields:
+    Front: 'Χχ'
+    Back: 'Chi'
+
+- type: Basic
+  fields:
+    Front: 'Ψψ'
+    Back: 'Psi'
+
+- type: Basic
+  fields:
+    Front: 'Ωω'
+    Back: 'Omega'
