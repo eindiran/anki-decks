@@ -1,129 +1,129 @@
 - type: Basic
   fields:
     Front: 'A'
-    Back: 'Alpha<br>IPA: ˈælfa<br>ICAO en respelling: AL fah'
+    Back: '<em><b>Alpha</b></em><br><br>IPA: ˈælfa<br><br>ICAO English respelling: AL fah'
 
 - type: Basic
   fields:
     Front: 'B'
-    Back: 'Bravo<br>IPA: ˈbraːˈvo<br>ICAO en respelling: BRAH voh'
+    Back: '<em><b>Bravo</b></em><br><br>IPA: ˈbraːˈvo<br><br>ICAO English respelling: BRAH voh'
 
 - type: Basic
   fields:
     Front: 'C'
-    Back: 'Charlie<br>IPA: ˈtʃɑːli<br>ICAO en respelling: CHAR lee'
+    Back: '<em><b>Charlie</b></em><br><br>IPA: ˈtʃɑːli<br><br>ICAO English respelling: CHAR lee'
 
 - type: Basic
   fields:
     Front: 'D'
-    Back: 'Delta<br>IPA: ˈdeltɑ<br>ICAO en respelling: DELL tah'
+    Back: '<em><b>Delta</b></em><br><br>IPA: ˈdeltɑ<br><br>ICAO English respelling: DELL tah'
 
 - type: Basic
   fields:
     Front: 'E'
-    Back: 'Echo<br>IPA: ˈeko<br>ICAO en respelling: ECK oh'
+    Back: '<em><b>Echo</b></em><br><br>IPA: ˈeko<br><br>ICAO English respelling: ECK oh'
 
 - type: Basic
   fields:
     Front: 'F'
-    Back: 'Foxtrot<br>IPA: ˈfɔkstrɔt<br>ICAO en respelling: FOKS trot'
+    Back: '<em><b>Foxtrot</b></em><br><br>IPA: ˈfɔkstrɔt<br><br>ICAO English respelling: FOKS trot'
 
 - type: Basic
   fields:
     Front: 'G'
-    Back: 'Golf<br>IPA: ɡʌlf<br>ICAO en respelling: golf'
+    Back: '<em><b>Golf</b></em><br><br>IPA: ɡʌlf<br><br>ICAO English respelling: golf'
 
 - type: Basic
   fields:
     Front: 'H'
-    Back: 'Hotel<br>IPA: hoːˈtel<br>ICAO en respelling: ho TELL'
+    Back: '<em><b>Hotel</b></em><br><br>IPA: hoːˈtel<br><br>ICAO English respelling: ho TELL'
 
 - type: Basic
   fields:
     Front: 'I'
-    Back: 'India<br>IPA: ˈindi.ɑ<br>ICAO en respelling: IN dee ah'
+    Back: '<em><b>India</b></em><br><br>IPA: ˈindi.ɑ<br><br>ICAO English respelling: IN dee ah'
 
 - type: Basic
   fields:
     Front: 'J'
-    Back: 'Juliett<br>IPA: ˈdʒuːli.ˈet<br>ICAO en respelling: JEW lee ETT'
+    Back: '<em><b>Juliett</b></em><br><br>IPA: ˈdʒuːli.ˈet<br><br>ICAO English respelling: JEW lee ETT'
 
 - type: Basic
   fields:
     Front: 'K'
-    Back: 'Kilo<br>IPA: ˈkiːlo<br>ICAO en respelling: KEY loh'
+    Back: '<em><b>Kilo</b></em><br><br>IPA: ˈkiːlo<br><br>ICAO English respelling: KEY loh'
 
 - type: Basic
   fields:
     Front: 'L'
-    Back: 'Lima<br>IPA: ˈliːmɑ<br>ICAO en respelling: LEE mah'
+    Back: '<em><b>Lima</b></em><br><br>IPA: ˈliːmɑ<br><br>ICAO English respelling: LEE mah'
 
 - type: Basic
   fields:
     Front: 'M'
-    Back: 'Mike<br>IPA: mɑik<br>ICAO en respelling: mike'
+    Back: '<em><b>Mike</b></em><br><br>IPA: mɑik<br><br>ICAO English respelling: mike'
 
 - type: Basic
   fields:
     Front: 'N'
-    Back: 'November<br>IPA: noˈvembə<br>ICAO en respelling: no VEM ber'
+    Back: '<em><b>November</b></em><br><br>IPA: noˈvembə<br><br>ICAO English respelling: no VEM ber'
 
 - type: Basic
   fields:
     Front: 'O'
-    Back: 'Oscar<br>IPA: ˈɔskɑ<br>ICAO en respelling: OSS cah'
+    Back: '<em><b>Oscar</b></em><br><br>IPA: ˈɔskɑ<br><br>ICAO English respelling: OSS cah'
 
 - type: Basic
   fields:
     Front: 'P'
-    Back: 'Papa<br>IPA: pəˈpɑ<br>ICAO en respelling: pah PAH'
+    Back: '<em><b>Papa</b></em><br><br>IPA: pəˈpɑ<br><br>ICAO English respelling: pah PAH'
 
 - type: Basic
   fields:
     Front: 'Q'
-    Back: 'Quebec<br>IPA: keˈbek<br>ICAO en respelling: keh BECK'
+    Back: '<em><b>Quebec</b></em><br><br>IPA: keˈbek<br><br>ICAO English respelling: keh BECK'
 
 - type: Basic
   fields:
     Front: 'R'
-    Back: 'Romeo<br>IPA: ˈroːmi.o<br>ICAO en respelling: ROW me oh'
+    Back: '<em><b>Romeo</b></em><br><br>IPA: ˈroːmi.o<br><br>ICAO English respelling: ROW me oh'
 
 - type: Basic
   fields:
     Front: 'S'
-    Back: 'Sierra<br>IPA: siˈerɑ<br>ICAO en respelling: see AIR rah'
+    Back: '<em><b>Sierra</b></em><br><br>IPA: siˈerɑ<br><br>ICAO English respelling: see AIR rah'
 
 - type: Basic
   fields:
     Front: 'T'
-    Back: 'Tango<br>IPA: ˈtænɡo<br>ICAO en respelling: TANG go'
+    Back: '<em><b>Tango</b></em><br><br>IPA: ˈtænɡo<br><br>ICAO English respelling: TANG go'
 
 - type: Basic
   fields:
     Front: 'U'
-    Back: 'Uniform<br>IPA: ˈjuːnifɔːm<br>ICAO en respelling: YOU nee form'
+    Back: '<em><b>Uniform</b></em><br><br>IPA: ˈjuːnifɔːm<br><br>ICAO English respelling: YOU nee form'
 
 - type: Basic
   fields:
     Front: 'V'
-    Back: 'Victor<br>IPA: ˈviktɑ<br>ICAO en respelling: VIK tah'
+    Back: '<em><b>Victor</b></em><br><br>IPA: ˈviktɑ<br><br>ICAO English respelling: VIK tah'
 
 - type: Basic
   fields:
     Front: 'W'
-    Back: 'Whiskey<br>IPA: ˈwiski<br>ICAO en respelling: WISS key'
+    Back: '<em><b>Whiskey</b></em><br><br>IPA: ˈwiski<br><br>ICAO English respelling: WISS key'
 
 - type: Basic
   fields:
     Front: 'X'
-    Back: 'X-ray<br>IPA: ˈeksˈrei<br>ICAO en respelling: ECKS ray'
+    Back: '<em><b>X-ray</b></em><br><br>IPA: ˈeksˈrei<br><br>ICAO English respelling: ECKS ray'
 
 - type: Basic
   fields:
     Front: 'Y'
-    Back: 'Yankee<br>IPA: ˈjænki<br>ICAO en respelling: YANG key'
+    Back: '<em><b>Yankee</b></em><br><br>IPA: ˈjænki<br><br>ICAO English respelling: YANG key'
 
 - type: Basic
   fields:
     Front: 'Z'
-    Back: 'Zulu<br>IPA: ˈzuːluː<br>ICAO en respelling: ZOO loo'
+    Back: '<em><b>Zulu</b></em><br><br>IPA: ˈzuːluː<br><br>ICAO English respelling: ZOO loo'
