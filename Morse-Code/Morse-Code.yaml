@@ -1,0 +1,179 @@
+- type: Basic
+  fields:
+    Front: 'A'
+    Back: '.-'
+
+- type: Basic
+  fields:
+    Front: 'B'
+    Back: '-...'
+
+- type: Basic
+  fields:
+    Front: 'C'
+    Back: '-.-.'
+
+- type: Basic
+  fields:
+    Front: 'D'
+    Back: '-..'
+
+- type: Basic
+  fields:
+    Front: 'E'
+    Back: '.'
+
+- type: Basic
+  fields:
+    Front: 'F'
+    Back: '..-.'
+
+- type: Basic
+  fields:
+    Front: 'G'
+    Back: '--.'
+
+- type: Basic
+  fields:
+    Front: 'H'
+    Back: '....'
+
+- type: Basic
+  fields:
+    Front: 'I'
+    Back: '..'
+
+- type: Basic
+  fields:
+    Front: 'J'
+    Back: '.---'
+
+- type: Basic
+  fields:
+    Front: 'K'
+    Back: '-.-'
+
+- type: Basic
+  fields:
+    Front: 'L'
+    Back: '.-..'
+
+- type: Basic
+  fields:
+    Front: 'M'
+    Back: '--'
+
+- type: Basic
+  fields:
+    Front: 'N'
+    Back: '-.'
+
+- type: Basic
+  fields:
+    Front: 'O'
+    Back: '---'
+
+- type: Basic
+  fields:
+    Front: 'P'
+    Back: '.--.'
+
+- type: Basic
+  fields:
+    Front: 'Q'
+    Back: '--.-'
+
+- type: Basic
+  fields:
+    Front: 'R'
+    Back: '.-.'
+
+- type: Basic
+  fields:
+    Front: 'S'
+    Back: '...'
+
+- type: Basic
+  fields:
+    Front: 'T'
+    Back: '-'
+
+- type: Basic
+  fields:
+    Front: 'U'
+    Back: '..-'
+
+- type: Basic
+  fields:
+    Front: 'V'
+    Back: '...-'
+
+- type: Basic
+  fields:
+    Front: 'W'
+    Back: '.--'
+
+- type: Basic
+  fields:
+    Front: 'X'
+    Back: '-..-'
+
+- type: Basic
+  fields:
+    Front: 'Y'
+    Back: '-.--'
+
+- type: Basic
+  fields:
+    Front: 'Z'
+    Back: '--..'
+
+- type: Basic
+  fields:
+    Front: '0'
+    Back: '-----'
+
+- type: Basic
+  fields:
+    Front: '1'
+    Back: '.----'
+
+- type: Basic
+  fields:
+    Front: '2'
+    Back: '..---'
+
+- type: Basic
+  fields:
+    Front: '3'
+    Back: '...--'
+
+- type: Basic
+  fields:
+    Front: '4'
+    Back: '....-'
+
+- type: Basic
+  fields:
+    Front: '5'
+    Back: '.....'
+
+- type: Basic
+  fields:
+    Front: '6'
+    Back: '-....'
+
+- type: Basic
+  fields:
+    Front: '7'
+    Back: '--...'
+
+- type: Basic
+  fields:
+    Front: '8'
+    Back: '---..'
+
+- type: Basic
+  fields:
+    Front: '9'
+    Back: '----.'
