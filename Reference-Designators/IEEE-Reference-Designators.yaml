@@ -1,0 +1,485 @@
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'A'
+    Back: 'Separable assembly or sub-assembly (e.g. printed circuit assembly)'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'AE'
+    Back: 'Aerial, antenna'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'ASSY'
+    Back: 'Separable assembly'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'AT'
+    Back: 'Attenuator or isolator'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'B'
+    Back: 'Battery'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'BR'
+    Back: 'Bridge rectifier (four diodes in a package). Often changed to "D" for diode'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'BT'
+    Back: 'Battery. Often shortened to "B".'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'C'
+    Back: 'Capacitor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'CB'
+    Back: 'Circuit Breaker'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'CN'
+    Back: 'Connector'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'CN'
+    Back: 'Capacitor network. May be simplified to "C" for capacitor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'CRT'
+    Back: 'Cathode ray tube'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'D, CR'
+    Back: 'Diode (all types, including LED), thyristor. "D" is preferred for various types of diodes'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'DL'
+    Back: 'Delay line'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'DS'
+    Back: 'Display, general light source, lamp, signal light'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'DSP'
+    Back: 'Digital signal processor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'F'
+    Back: 'Fuse'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'FB'
+    Back: 'Ferrite bead. Sometimes changed to "L" for inductor, though "E" was used in the currently inactive standard IEEE 315 (see Clause 22.4).'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'FD'
+    Back: 'Fiducial'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'FET'
+    Back: 'Field-effect transistor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'FL'
+    Back: 'Filter'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'G'
+    Back: 'Generator or oscillator'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'GDT, SVP'
+    Back: 'Gas discharge tube, surge voltage protector'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'GL'
+    Back: 'Graphical logo'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'GN'
+    Back: 'General network'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'H'
+    Back: 'Pin header'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'H'
+    Back: 'Hardware, e.g., screws, nuts, washers. Sometimes hardware is expanded to "HW"'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'HY'
+    Back: 'Circulator or directional coupler'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'IR'
+    Back: 'Infrared diode; often changed to "D" for diode'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'J'
+    Back: 'Jack (least-movable connector of a connector pair), jack connector (connector may have "male" pin contacts and/or "female" socket contacts). All types of connectors, including pin headers.'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'J, JW'
+    Back: 'Wire link ("jumper")'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'JFET'
+    Back: 'Junction gate field-effect transistor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'JP'
+    Back: 'Jumper (link)'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'K'
+    Back: 'Relay or contactor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'L'
+    Back: 'Inductor or coil or ferrite bead'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'LA'
+    Back: 'Lightning arrester'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'LCD'
+    Back: 'Liquid crystal display'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'LDR'
+    Back: 'Light-dependent resistor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'LED'
+    Back: 'Light-emitting diode'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'LS'
+    Back: 'Loudspeaker or buzzer'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'M'
+    Back: 'Motor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'MCB'
+    Back: 'Miniature circuit breaker'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'MIC'
+    Back: 'Microphone'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'MK'
+    Back: 'Microphone'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'MOSFET'
+    Back: 'Metal-oxide-semiconductor field-effect transistor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'MOV'
+    Back: 'Metal-oxide varistor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'MP'
+    Back: 'Mechanical part (including screws and fasteners)'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'NE'
+    Back: 'Neon lamp'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'OP'
+    Back: 'Opto-isolator; often changed to "U" for IC'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'P'
+    Back: 'Plug (most-movable connector of a connector pair), plug connector (connector may have "male" pin contacts and/or "female" socket contacts)'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'PCB'
+    Back: 'Printed circuit board'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'PLC'
+    Back: 'Programmable logic controller'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'PS'
+    Back: 'Power supply'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'PU'
+    Back: 'Pickup'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'Q'
+    Back: 'Transistor (all types)'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'R'
+    Back: 'Resistor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'RN'
+    Back: 'Resistor network; sometimes simplified to "R" for resistor, or "N" for network'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'RT'
+    Back: 'Thermistor; sometimes simplified to "R" for resistor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'RV'
+    Back: 'Varistor, variable resistor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'RY, RLA'
+    Back: 'Relay'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'S'
+    Back: 'Switch (all types, including buttons)'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'SA'
+    Back: 'Spark Arrester'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'SCR'
+    Back: 'Silicon-controlled rectifier'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'SUS'
+    Back: 'Silicon unilateral switch'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'SW'
+    Back: 'Switch'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'T'
+    Back: 'Transformer; sometimes changed to "L" for inductor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'TC'
+    Back: 'Thermocouple'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'TFT'
+    Back: 'Thin-film transistor (display)'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'TH'
+    Back: 'Thermistor'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'TP'
+    Back: 'Test point'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'TUN'
+    Back: 'Tuner'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'U, IC'
+    Back: 'Integrated circuit (IC); shorter "U" (unit) is preferred instead of "IC"'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'V'
+    Back: 'Vacuum tube'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'VC'
+    Back: 'Variable capacitor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'VDR'
+    Back: 'Voltage-dependent resistor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'VFD'
+    Back: 'Vacuum fluorescent display'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'VR'
+    Back: 'Voltage regulator (voltage reference), or variable resistor (potentiometer / trimmer / rheostat). Voltage regulators are often "U" for IC, pots and trimmers often "R" for resistor'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'VT'
+    Back: 'Voltage transformer'
+
+- type: Basic
+  tags: [Unofficial]
+  fields:
+    Front: 'W'
+    Back: 'Wire'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'X'
+    Back: 'Socket connector for another item not P or J, paired with the letter symbol for that item (XV for vacuum tube socket, XF for fuse holder, XA for printed circuit assembly connector, XU for integrated circuit connector, XDS for light socket, etc.)'
+
+- type: Basic
+  tags: [Standard]
+  fields:
+    Front: 'X, XTAL, Y'
+    Back: 'Crystal, ceramic resonator, powered oscillator'
